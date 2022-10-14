@@ -1,0 +1,5 @@
+Tests: require
+Depends: node-mutate-fs
+
+Test-Command: tap test/*.js
+Depends: @, node-tap

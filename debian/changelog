@@ -1,0 +1,20 @@
+node-mutate-fs (2.1.1-1.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Tue, 29 Dec 2020 03:54:14 +0100
+
+node-mutate-fs (2.1.1-1) unstable; urgency=medium
+
+  * New upstream release 2.1.1
+  * Bump Standard version
+  * Update to debhelper 11
+
+ -- Akhil Varkey <akhilvarkey@disroot.org>  Sun, 07 Jan 2018 00:46:37 +0530
+
+node-mutate-fs (2.1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #879701)
+
+ -- Akhil Varkey <akhilvarkey@disroot.org>  Tue, 24 Oct 2017 18:30:09 +0000
